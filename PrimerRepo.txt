@@ -1,0 +1,13 @@
+Este es mi primer repositorio 
+
+git init -> Nos inicia un repositorio en la carpeta
+
+git add -> Lo usamos para añadir un archivo, si es uno en especifico usamos "" y ponemos el nombre de dicho archivo
+           y si solo ocupamos "." significa que se añadirán todos los archivos
+
+commit -m "Primer repositorio" -> Con este agregamos un comentario
+
+git remote add origin -> Con esto estamos indicando que nuestro archive se guarde en el repositorio y ocupamos el link
+                         https://github.com/Elias-Quintanilla/Clases-Nestor-Irvin.git, en mi caso.
+
+git push -u origin master -> Prácticamente con esto le estamos dando como el ok para mandar nuesto archivo
